@@ -6,3 +6,8 @@ public class HelloWorld {
     }
 
 }
+
+/*单行注释快捷键：ctrl+/
+多行注释快捷键：ctrl+shift_/（选中）*/
+
+//注释不会影响程序运行
