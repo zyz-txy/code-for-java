@@ -8,6 +8,7 @@ public class OperatorDemo3 {
         char d = 'c';
 
         System.out.println("字符 '" + d + "' 的 ASCII 值是: " + (int) d);
+        //这里打印是运用了字符串的运算，只有加法，实现拼接操作！！
 //与C不同，Java中char类型没有对应的整数类型，所以需要使用(int)进行转换
     }
 }
