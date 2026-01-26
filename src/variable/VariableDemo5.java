@@ -10,6 +10,8 @@ public class VariableDemo5 {
         System.out.println(num1);
         double num2 = sc.nextDouble();
         System.out.println(num2);
+        double sum = num1 +num2;
+        System.out.println(sum);
         String str = sc.next();
         System.out.println(str);
     }
