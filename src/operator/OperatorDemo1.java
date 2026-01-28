@@ -13,5 +13,7 @@ public class OperatorDemo1 {
         System.out.println("a*b="+(a*b));//相乘
         System.out.println("a/b="+(a/b));//相除
         System.out.println("a%b="+(a%b));//取余
+        System.out.println(Math .max(a,b));//等价于a>b?a:b ，
+                                           // 三目运算符
     }
 }
