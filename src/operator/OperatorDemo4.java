@@ -2,7 +2,7 @@ package operator;
 
 import java.util.Scanner;
 
-public class OpretorDemo4 {
+public class OperatorDemo4 {
     static void main() {
         Scanner sc = new Scanner(System.in);
         System.out.println("请输入一个三位数");
