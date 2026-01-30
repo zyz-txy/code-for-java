@@ -1,5 +1,6 @@
 package ifdemo;
-
+// 生成一个1~100的随机数，利用键盘输入进行猜数，直到猜中
+//理论上不超过7次
 import java.util.Random;
 import java.util.Scanner;
 
