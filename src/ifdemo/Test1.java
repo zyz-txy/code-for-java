@@ -3,7 +3,7 @@ package ifdemo;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Test {
+public class Test1 {
     static void main() {
         //生成一个1~100的随机数，利用键盘输入进行猜数，直到猜中
         Random r = new Random();
