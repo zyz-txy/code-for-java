@@ -1,6 +1,6 @@
 package ifdemo;
 
-public class Tset3 {
+public class Test3 {
     static void main() {
         //双循环打印三角形
         for(int i=1;i<=5;i++){
