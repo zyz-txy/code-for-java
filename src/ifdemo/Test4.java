@@ -19,6 +19,7 @@ public class Test4 {
             for (int j = 2; j >= i; j--) {
                 System.out.print("@");
             }
+            //最后打印右下角红色部分
             for (int j = 1; j < i; j++) {
                 System.out.print("#");
             }
