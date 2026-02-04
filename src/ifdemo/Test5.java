@@ -9,5 +9,6 @@ public class Test5 {
             }
             System.out.println();
         }
+        //打印九九加法表
     }
 }
